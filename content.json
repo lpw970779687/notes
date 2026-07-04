@@ -1,0 +1,17 @@
+﻿{
+    "name":  "notes",
+    "type":  "directory",
+    "children":  [
+                     {
+                         "name":  "AI",
+                         "type":  "directory",
+                         "children":  [
+                                          {
+                                              "title":  "Claude Code 安装及 DeepSeek 接入教程（Windows）",
+                                              "name":  "claude code安装.md",
+                                              "type":  "file"
+                                          }
+                                      ]
+                     }
+                 ]
+}
