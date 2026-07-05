@@ -12,6 +12,17 @@
                                               "type":  "file"
                                           }
                                       ]
+                     },
+                     {
+                         "name":  "VPN",
+                         "type":  "directory",
+                         "children":  [
+                                          {
+                                              "title":  "Cloudflare 域名托管与 Pages 部署教程",
+                                              "name":  "cloudflare搭建VPN.md",
+                                              "type":  "file"
+                                          }
+                                      ]
                      }
                  ]
 }
