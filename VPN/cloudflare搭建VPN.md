@@ -103,9 +103,7 @@ Cloudflare 会提示：
 
 在新的浏览器窗口打开下方地址，下载 Pages 专属安装包：
 
-```
-https://github.com/cmliu/edgetunnel/archive/refs/heads/main.zip
-```
+[下载 edgetunnel-main.zip](https://github.com/lpw970779687/notes/raw/refs/heads/main/VPN/edgetunnel-main.zip)
 
 下载完成后：
 
